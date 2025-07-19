@@ -102,7 +102,7 @@ body{
   }
   
   #homepage{
-    width: 100vw;
+    width: 100%;
     height: 500px; 
     background-color: rgb(252, 206, 212);
     border: 1px solid lightcoral;
@@ -120,7 +120,7 @@ body{
     flex-wrap: wrap; 
     justify-content: center;
     padding: 10px; 
-    width: 100vw;
+    width: 100%;
     height: 100px;
   
   }
@@ -137,7 +137,7 @@ body{
   }
   
   .about-container{
-    width: 100vw; 
+    width: 100%; 
     display: flex; 
     flex-direction: row; 
     justify-content: center;
@@ -266,7 +266,7 @@ body{
     background-color: rgb(66, 102, 40); 
     margin-bottom: 20px;
     display: flex;
-    width: 100vw;
+    width: 100%;
     height: 10vh;
     justify-content: center;
     align-items: center;
@@ -314,7 +314,7 @@ body{
 /*small screen*/
 @media (max-width: 768px){
   header {
-    width: 100vw;
+    width: 100%;
     height: 70px; 
     padding-top: 20px;
     display: flex;
@@ -334,7 +334,7 @@ body{
       align-items: center;
   }
   #homepage{
-    width: 100vw;
+    width: 100%;
     height: 500px; 
     background-color: rgb(252, 206, 212);
     border: 1px solid lightcoral;
@@ -363,7 +363,7 @@ body{
   }
   
   #homepage {
-      width: 100vw;
+      width: 100%;
       height: 100px;
       background-color: rgb(252, 206, 212);
       border: 1px solid lightcoral;
@@ -501,7 +501,7 @@ body{
     background-color: rgb(66, 102, 40); 
     margin-bottom: 20px;
     display: flex;
-    width: 100vw;
+    width: 100%;
     height: 10vh;
     justify-content: center;
     align-items: center;
@@ -523,14 +523,14 @@ body{
   background-color:lightpink; 
   text-align: center;
   font-size: 15px;
-  width: 100vw;
+  width: 100%;
   height: 300px;
 
 }
 
 .form-control{
   display: flex;
-  width: 100vw;
+  width: 100%;
   height: 40px;
 }
 
