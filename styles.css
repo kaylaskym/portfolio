@@ -26,6 +26,8 @@ body {
   height: auto;
   margin: 0 auto 20px auto;
   border: 1px solid lightcoral;
+  display: flex;
+  justify-content: center;
 }
 
 .about-container {
