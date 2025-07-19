@@ -16,9 +16,12 @@ body {
 }
 
 #homepage {
-  max-height: 300px;
-  width: 100%;
-  object-fit: contain;
+  max-width: 300px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  background-color: rgb(252, 206, 212);
+  border: 1px solid lightcoral;
 }
 
 header {
