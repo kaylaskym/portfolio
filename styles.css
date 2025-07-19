@@ -80,7 +80,7 @@ body{
 
 
 /*destop screen*/
-@media (min-width: 701px){
+@media (min-width: 1200px){
 
   header{
     width: 100%;
@@ -313,7 +313,7 @@ body{
 
 
 /*small screen*/
-@media (max-width: 700px){
+@media (max-width: 768px){
   header {
     width: 100vw;
     height: 70px; 
