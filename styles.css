@@ -266,7 +266,7 @@ footer {
 }
 
 
-
+/* desktop screen, worked for visual studio code, not on github
 @media (min-width: 701px){
 
   header{
@@ -494,7 +494,7 @@ footer {
   }
   }
   
- 
+ //smaller screen devices, worked on visual studio code not on github
 @media (max-width: 700px){
   header {
     width: 100%;
@@ -721,4 +721,4 @@ footer {
   color: lightpink; 
 }
 }
-
+*/
