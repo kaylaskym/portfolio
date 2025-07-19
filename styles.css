@@ -24,7 +24,6 @@ body {
 #homepage {
   width: 300px;
   height: auto;
-  display: block;
   margin: 0 auto 20px auto;
   border: 1px solid lightcoral;
 }
