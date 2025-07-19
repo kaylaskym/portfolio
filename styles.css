@@ -15,14 +15,18 @@ body {
   padding: 0;
 }
 
+#home {
+  background-color: rgb(252, 206, 212);
+  padding: 20px 0;
+}
+
 #homepage {
+  display: block;
   max-width: 300px;
   height: auto;
-  display: block;
-  margin: 20px auto;
-  background-color: rgb(252, 206, 212);
-  border: 1px solid lightcoral;
+  margin: 0 auto 20px auto;
 }
+
 
 header {
   width: 100%;
