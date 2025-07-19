@@ -162,6 +162,38 @@ footer {
   color: white;
 }
 
+
+/* Final layout fixes */
+body {
+  overflow-x: hidden;
+}
+
+#homepage, header, .nav-tabs, footer {
+  width: 100%;
+}
+
+.nav-tabs .nav-link {
+  font-size: clamp(16px, 2vw, 30px);
+  padding: clamp(8px, 1.5vw, 20px);
+}
+
+#h1 {
+  font-size: clamp(40px, 8vw, 90px);
+}
+
+.about-me {
+  font-size: clamp(16px, 3vw, 24px);
+}
+
+#about-header, #education-header, #project-header {
+  font-size: clamp(30px, 6vw, 60px);
+}
+
+.card-text, .projects-text {
+  font-size: clamp(14px, 3vw, 22px);
+}
+
+
 /*destop screen
 @media (min-width: 701px){
 
