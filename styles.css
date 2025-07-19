@@ -8,10 +8,6 @@
   src: url('moela.ttf') format('truetype'); 
 }
 
-.container{
-width: 2200px;
-}
-
 body{
   font-family: 'BodyFont', serif; 
 }
